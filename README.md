@@ -20,7 +20,7 @@
 
 - 📄 Know about my experiences [https://janvier.dev/](https://janvier.dev/)
 
-- ⚡ Fun fact **I can probably win at pool if we play :)**
+- ⚡ Fun fact **I can probably win at pool table if we play :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
