@@ -4,11 +4,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jenzzly" alt="jenzzly" /></a> </p>
 
-- 🔭 I’m currently working on **Python Projects**
+- 🔭 I’m currently working on **Python Projects/flask**
 
 - 🌱 I’m currently learning **AWS, CI/CD Tools & flutterwave**
 
-- 🤝 I’m looking for help with **Open Source Fun Project**
+- 🤝 I’m looking to help with **Open Source Fun Project**
 
 - 👨‍💻 All of my projects are available at [https://janvier.dev/](https://janvier.dev/)
 
@@ -16,7 +16,7 @@
 
 - 💬 Ask me about **Python, ROR, VueJS**
 
-- 📫 How to reach me **Linkedin**
+- 📫 How to reach me **[Linkedin](https://linkedin.com/in/byjanvier)**
 
 - 📄 Know about my experiences [https://janvier.dev/](https://janvier.dev/)
 
